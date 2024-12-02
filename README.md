@@ -1,9 +1,7 @@
 ### Network Security Projects For Phising Data
 
 Setup github secrets:
-AWS_ACCESS_KEY_ID= AKIAQQ54HIH2KPGJ6WBA
 
-AWS_SECRET_ACCESS_KEY= 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
 
 AWS_REGION = us-east-1
 
