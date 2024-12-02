@@ -12,6 +12,10 @@ ECR_REPOSITORY_NAME = networksecurity
 Docker Setup In EC2 commands to be Executed
 #optinal
 
+AWS_ACCESS_KEY_ID= 
+
+AWS_SECRET_ACCESS_KEY= 
+
 sudo apt-get update -y
 
 sudo apt-get upgrade
