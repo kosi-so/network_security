@@ -5,7 +5,8 @@ Setup github secrets:
 
 AWS_REGION = us-east-1
 
-AWS_ECR_LOGIN_URI = 036365091316.dkr.ecr.us-east-1.amazonaws.com/networksecurity
+AWS_ECR_LOGIN_URI = 036365091316.dkr.ecr.us-east-1.amazonaws.com
+
 ECR_REPOSITORY_NAME = networksecurity
 
 
